@@ -26,4 +26,6 @@ class Grapher:
         plt.ylabel("Average Time in System")
         plt.legend()
         plt.grid(True)
+        #To show all graphs at once
+        #plt.figure()
         plt.show()
